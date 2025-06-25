@@ -9,7 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find these on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
-<br>
 
 | Journal                                   | # Publications   | Impact Factor†   | CiteScore‡        |
 | ----------------------------------------- | :--------------: | :--------------: | :---------------: |
@@ -25,13 +24,6 @@ author_profile: true
 | Nature Machine Intelligence              | 1              | 23.9           | 37.6            |
 | iScience                                 | 1              | 4.1            | 6.9             |
 
-<br>
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 <small><em>† [Journal Citation Reports 2024](https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/journal-citation-reports/)</em></small>  
 <small><em>‡ [Scopus](https://www.scopus.com/sources.uri)</em></small>  
