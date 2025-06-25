@@ -35,8 +35,15 @@ author_profile: true
 
 **2024**
 
-16.	Gundersen POM, Pasin D, Slørdal L, Spigset O, Josefsson M. (2024) Retrospective screening of new psychoactive substances (NPS) in post mortem samples from 2014 to 2021. Forensic Science International. 361:112131. DOI:10.1016/j.forsciint.2024.112131. IF: 2.2; CiteScore: 5.0.
-15.	Bade R, van Herwerden D, Rousis N, Adhikari S, Allen D, Baduel C, Bijlsma L, Boogaerts T, Burgard D, Chappell A, Driver EM, Fabriz Sodre F, Fatta-Kassinos D, Garcia Lor E, Gracia-Marin E, U. Halden R, Heath E, Jaunay E, Krotulski A, Yin Lai F, Ching Love AS, O'Brien J, Oh J-E, Pasin D, Pineda M, Psichoudaiki M, Salgueiro-González N, Gomes CS, Subedi B, Thomas K, Thomaidis NS, Wang D, Yargeau V, Samanipour S, Mueller JF. (2024) Workflow to Facilitate the Detection of New Psychoactive Substances and Drugs of Abuse in Influent Urban Wastewater. Journal of Hazardous Materials. 469: 133955. DOI: 10.1016/j.jhazmat.2024.133955. IF: 12.2; CiteScore: 25.4.
+<ol reversed start="16">
+  <li>
+    Gundersen POM, Pasin D, Slørdal L, Spigset O, Josefsson M. (2024) Retrospective screening of new psychoactive substances (NPS) in post mortem samples from 2014 to 2021. Forensic Science International. 361:112131. DOI <a href="https://doi.org/10.1016/j.forsciint.2024.112131">10.1016/j.forsciint.2024.112131</a>.
+  </li>
+  <li>
+    Bade R, van Herwerden D, Rousis N, Adhikari S, Allen D, Baduel C, Bijlsma L, Boogaerts T, Burgard D, Chappell A, Driver EM, Fabriz Sodre F, Fatta-Kassinos D, Garcia Lor E, Gracia-Marin E, U. Halden R, Heath E, Jaunay E, Krotulski A, Yin Lai F, Ching Love AS, O'Brien J, Oh J-E, Pasin D, Pineda M, Psichoudaiki M, Salgueiro-González N, Gomes CS, Subedi B, Thomas K, Thomaidis NS, Wang D, Yargeau V, Samanipour S, Mueller JF. (2024) Workflow to Facilitate the Detection of New Psychoactive Substances and Drugs of Abuse in Influent Urban Wastewater. Journal of Hazardous Materials. 469: 133955. DOI: <a href="https://doi.org/10.1016/j.jhazmat.2024.133955">10.1016/j.jhazmat.2024.133955.
+    </li> 
+</ol>
+
 
 **2023**
   
