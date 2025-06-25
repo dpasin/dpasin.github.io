@@ -11,8 +11,8 @@ author_profile: true
 
 <br>
 
-| Journal                                  | # Publications | Impact Factor† | CiteScore‡      |
-|------------------------------------------|:--------------:|:--------------:|:---------------:|
+| Journal                                   | # Publications   | Impact Factor†   | CiteScore‡        |
+| ----------------------------------------- | :--------------: | :--------------: | :---------------: |
 | Analytical and Bioanalytical  Chemistry  | 1              | 3.8            | 7.9             |
 | Analytical Chemistry                     | 2              | 6.7            | 11.6            |
 | Analytical Chimica Acta                  | 1              | 6.0            | 10.4            |
