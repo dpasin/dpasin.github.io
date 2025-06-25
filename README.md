@@ -1,3 +1,59 @@
+<hr/>
+
+# Adding Custom Sections
+
+To add custom sections to your page, follow the steps below.
+
+### _config.yml
+
+Under `defaults` add:
+
+  ```
+  #_<section_name>
+  - scope:
+      path: ""
+      type: <section_name>
+    values:
+      layout: single
+      author_profile: true
+      share: true
+```
+Example:
+
+```
+  #_certifications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+```
+
+### _data/navigation.yml
+
+Add to the navigation list the following:
+
+```
+  - title: "<section_name_capitalised>"
+    url: /<section_name>/
+```
+Example:
+
+```
+  - title: "Certifications"
+    url: /certifications/
+
+```
+
+### _pages
+
+Add `<section_name>.html` file with desired HTML code.
+
+<hr/>
+
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
@@ -94,3 +150,5 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+
