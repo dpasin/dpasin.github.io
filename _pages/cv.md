@@ -31,7 +31,7 @@ Faculty of Science, University of Technology Sydney, Australia
 * 3-month position funded by a successful grant application with the Defence Science and Technology Group (DSTG).
 * Developed a graphical user interface (GUI) with Python using PyQT5 for an electronic nose designed for the detection of deceased persons.
 
-**Postdoctoral Researcher**	(Apr 2020 – Mar 2022)</br>
+**Postdoctoral Researcher**	(Apr 2020 – Mar 2022)
 Section of Forensic Chemistry, Department of Forensic Medicine, University of Copenhagen, Denmark  
 * Implementing machine learning/deep learning using Python with TensorFlow/Keras to predict ionization efficiency in mass spectrometry and retention time prediction in liquid chromatography.
 
