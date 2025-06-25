@@ -24,6 +24,7 @@ author_profile: true
 | Journal of Hazardous Materials           | 1              | 11.3           | 24.6            |
 | Nature Machine Intelligence              | 1              | 23.9           | 37.6            |
 | iScience                                 | 1              | 4.1            | 6.9             |
+
 <br>
 
 | Entry            | Item   |                                                              |
