@@ -54,7 +54,10 @@
       {% endif %}      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
-      {% endif %}      
+      {% endif %}
+
+      <br>
+      
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
