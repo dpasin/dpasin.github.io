@@ -9,6 +9,28 @@ author_profile: true
   <div class="wordwrap">You can also find these on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
+<br>
+
+| Journal                                  | # Publications | Impact Factor† | CiteScore‡      |
+|------------------------------------------|:--------------:|:--------------:|:---------------:|
+| Analytical and Bioanalytical  Chemistry  | 1              | 3.8            | 7.9             |
+| Analytical Chemistry                     | 2              | 6.7            | 11.6            |
+| Analytical Chimica Acta                  | 1              | 6.0            | 10.4            |
+| Analytical Methods                       | 1              | 2.6            | 4.5             |
+| Archives of Toxicology                   | 1              | 6.9            | 10              |
+| Drug Testing and Analysis                | 4              | 2.4            | 6.2             |
+| Forensic Science International           | 1              | 2.5            | 4.6             |
+| Journal of Analytical Toxicology         | 2              | 2.6            | 5.8             |
+| Journal of Hazardous Materials           | 1              | 11.3           | 24.6            |
+| Nature Machine Intelligence              | 1              | 23.9           | 37.6            |
+| iScience                                 | 1              | 4.1            | 6.9             |
+<br>
+
+<small><em>† [Journal Citation Reports 2024](https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/journal-citation-reports/)</em></small>  
+<small><em>‡ [Scopus](https://www.scopus.com/sources.uri)</em></small>  
+
+<br>
+
 1.	Gundersen POM, Pasin D, Slørdal L, Spigset O, Josefsson M. (2024) Retrospective screening of new psychoactive substances (NPS) in post mortem samples from 2014 to 2021. Forensic Science International. 361:112131. DOI:10.1016/j.forsciint.2024.112131. IF: 2.2; CiteScore: 5.0.
 2.	Bade R, van Herwerden D, Rousis N, Adhikari S, Allen D, Baduel C, Bijlsma L, Boogaerts T, Burgard D, Chappell A, Driver EM, Fabriz Sodre F, Fatta-Kassinos D, Garcia Lor E, Gracia-Marin E, U. Halden R, Heath E, Jaunay E, Krotulski A, Yin Lai F, Ching Love AS, O'Brien J, Oh J-E, Pasin D, Pineda M, Psichoudaiki M, Salgueiro-González N, Gomes CS, Subedi B, Thomas K, Thomaidis NS, Wang D, Yargeau V, Samanipour S, Mueller JF. (2024) Workflow to Facilitate the Detection of New Psychoactive Substances and Drugs of Abuse in Influent Urban Wastewater. Journal of Hazardous Materials. 469: 133955. DOI: 10.1016/j.jhazmat.2024.133955. IF: 12.2; CiteScore: 25.4.
 3.	Wang F, Pasin D, Skinnider MA, Liigand J, Kleis JN, Brown D, Oler E, Sajed T, Gautam V, Harrison S, Greiner R, Foster LJ, Dalsgaard PW, Wishart D. (2023) Deep learning-enabled MS/MS spectrum prediction facilitates automated identification of novel psychoactive substances. Analytical Chemistry. 95(50): 18326–18334. DOI: 10.1021/acs.analchem.3c02413. IF: 6.7; CiteScore: 12.1.
