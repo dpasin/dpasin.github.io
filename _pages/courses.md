@@ -8,4 +8,6 @@ redirect_from:
   - /courses.html
 ---
 
+{% include base_path %}
+
 This is the courses test page
