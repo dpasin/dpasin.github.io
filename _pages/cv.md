@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<hr/>
+
 APPOINTMENT HISTORY
 ======
 **Principal Administrator** (Apr 2020 - Present)  
@@ -19,7 +21,7 @@ HighResNPS, The International Association of Forensic Toxicologists
 * Implementing artificial intelligence (AI) techniques using Python/TensorFlow to enhance the application of the database in suspect screening.
 
 **Laboratory Information Management System (LIMS) Specialist** (Mar 2023 – Feb 2025)  
-Forensic Laboratory Division, Office of the Chief Medical Examiner, City and County of San Francisco, California – United States</br>
+Forensic Laboratory Division, Office of the Chief Medical Examiner, City and County of San Francisco, California – United States
 * Position funded by the California Highway Patrol.
 * Developed a full-stack (Python/Flask, HTML, JavaScript, Microsoft SQL Server) Laboratory Information Management System (LIMS) for a forensic laboratory accredited to ISO/IEC 17025.
 * Implemented workflows to migrate and centralize existing data from multiple sources.
@@ -39,6 +41,7 @@ Section of Forensic Chemistry, Department of Forensic Medicine, University of Co
 Australian Racing Forensic Laboratory, RacingNSW, Australia  
 * Responsible for the extraction, analysis and data review for a number of different analytical protocols that support integrity in equine sports.
 
+<hr/>
 
 EDUCATION
 ======
@@ -56,7 +59,9 @@ University of Technology Sydney, Australia
 2010 - 2012  
 School of Mathematical and Physical Sciences, Faculty of Science  
 University of Technology Sydney, Australia  
-  
+
+<hr/>
+
 SKILLS
 ======
 **Full-stack programming** - Python, SQL, JavaScript, HTML, CSS  
@@ -67,6 +72,8 @@ SKILLS
 **Graphical user interface development** – PyQT5, tkinter  
 **Version control systems** – Git, GitHub  
 
+<hr/>
+
 MEMBERSHIPS OF PROFESSIONAL ORGANISATIONS
 ======
 2023 – Present &ensp; Associate Member, California Association of Toxicologists (CAT)  
@@ -75,6 +82,8 @@ MEMBERSHIPS OF PROFESSIONAL ORGANISATIONS
 2013 – Present &ensp; Member, Australian and New Zealand Forensic Science Society (ANZFSS)  
 2013 – Present &ensp; Member, Forensic and Clinical Toxicology Association, Inc. (FACTA)  
 2012 – Present &ensp; Chartered Member, Royal Australian Chemical Institute (RACI)  
+
+<hr/>
 
 PROFESSIONAL COMMITTEES
 ======
