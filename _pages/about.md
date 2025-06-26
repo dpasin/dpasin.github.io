@@ -13,4 +13,6 @@ Although my background is in analytical toxicology, having completed a PhD at th
 
 I also enjoy developing full stack applications using the [Flask](https://flask.palletsprojects.com/en/stable/) web microframework which includes the laboratory information management system (LIMS) at the Forensic Laboratory Division, [San Francisco Office of the Chief Medical Examiner](https://www.sf.gov/departments--city-administrator--office-chief-medical-examiner).
 
-If you're interested in learning Python or are using it in your laboratory, I'd be keen to hear more!
+If you're interested in learning programming and are wondering where to start, feel free to check out the [Courses](https://dpasin.github.io/courses/) which recommends courses on [Udemy](https://www.udemy.com/)
+
+If are you are already using programming in your laboratory or own projects, I'd be keen to hear more!
