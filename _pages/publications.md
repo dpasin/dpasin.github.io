@@ -19,7 +19,7 @@ author_profile: true
 | Analytical Chemistry                      | 2                | 6.7              | 11.6              |
 | Analytical Chimica Acta                   | 1                | 6.0              | 10.4              |
 | Analytical Methods                        | 1                | 2.6              | 4.5               |
-| Archives of Toxicology                    | 1                | 6.9              | 10                |
+| Archives of Toxicology                    | 1                | 6.9              | 10.0              |
 | Drug Testing and Analysis                 | 4                | 2.4              | 6.2               |
 | Forensic Science International            | 1                | 2.5              | 4.6               |
 | Journal of Analytical Toxicology          | 2                | 2.6              | 5.8               |
