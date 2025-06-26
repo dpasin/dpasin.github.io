@@ -49,7 +49,7 @@ Example:
 
 ### _pages
 
-Add `<section_name>.html` file with desired HTML code.
+Add a `<section_name>.html` or `<section_name>.md` file with desired HTML or Markdown code, respectively.
 
 <hr/>
 
