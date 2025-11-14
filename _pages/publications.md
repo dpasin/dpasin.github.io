@@ -4,15 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# Publications
+
+<hr>
 
 <div class="wordwrap">
     You can find these on:
     <ul>
         {% if site.author.googlescholar %}
-            <li><a href="{{site.author.googlescholar}}">Google Scholar</a></li>
+            <li><a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a></li>
         {% endif %}
         {% if site.author.scopus%}
-            <li><a href="{{site.author.scopus}}">Scopus</a></li>
+            <li><a href="{{site.author.scopus}}"target="_blank">Scopus</a></li>
         {% endif %}
     </ul>
 </div>
