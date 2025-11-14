@@ -15,7 +15,7 @@ author_profile: true
             <li><a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a></li>
         {% endif %}
         {% if site.author.scopus%}
-            <li><a href="{{site.author.scopus}}"target="_blank">Scopus</a></li>
+            <li><a href="{{site.author.scopus}}" target="_blank">Scopus</a></li>
         {% endif %}
     </ul>
 </div>
