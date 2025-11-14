@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find these on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}
+<div class="wordwrap">
+    You can find these on:
+    <ul>
+        {% if site.author.googlescholar %}
+            <li><a href="{{site.author.googlescholar}}">Google Scholar</a></li>
+        {% endif %}
+        {% if site.author.scopus%}
+            <li><a href="{{site.author.scopus}}">Scopus</a></li>
+        {% endif %}
+    </ul>
+</div>
 
 <hr>
 
