@@ -7,10 +7,12 @@ author_profile: true
 
 # Published packages
 
-## amberNPS
-A simple python API for [AmberNPS](https://ambernps.streamlit.app/) used to predict 
-lethal blood concentrations (LBC) for new psychoactive substances. Can be applied to large
-numbers of SMILES strings.
+<hr>
 
-- [Repository](https://github.com/dpasin/amberNPS-api)
-- [PyPi](https://pypi.org/project/amberNPS/)
+## amberNPS
+A simple python API for <a href="https://ambernps.streamlit.app/" target="_blank">amberNPS</a> used to predict 
+lethal blood concentrations (LBC) for new psychoactive substances. Can be applied to large
+numbers of SMILES strings. 
+
+<a href="https://github.com/dpasin/amberNPS-api" target="_blank">Repo</a> | 
+<a href="https://pypi.org/project/amberNPS/" target="_blank">PyPi</a>
