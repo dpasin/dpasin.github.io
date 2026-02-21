@@ -24,25 +24,32 @@ author_profile: true
 
 ## Publication Summary
 
-| Journal                                   | # Publications   | Impact Factor†   | CiteScore‡        |
-| ----------------------------------------- | :--------------: | :--------------: | :---------------: |
-| Analytical and Bioanalytical  Chemistry   | 1                | 3.8              | 7.9               |
-| Analytical Chemistry                      | 2                | 6.7              | 11.6              |
-| Analytical Chimica Acta                   | 1                | 6.0              | 10.4              |
-| Analytical Methods                        | 1                | 2.6              | 4.5               |
-| Archives of Toxicology                    | 1                | 6.9              | 10.0              |
-| Drug Testing and Analysis                 | 4                | 2.4              | 6.2               |
-| Forensic Science International            | 1                | 2.5              | 4.6               |
-| Journal of Analytical Toxicology          | 2                | 2.6              | 5.8               |
-| Journal of Hazardous Materials            | 1                | 11.3             | 24.6              |
-| Nature Machine Intelligence               | 1                | 23.9             | 37.6              |
-| iScience                                  | 1                | 4.1              | 6.9               |
+| Journal                                  | # Publications | Impact Factor†   | CiteScore‡        |
+| ---------------------------------------- |:--------------:| :--------------: | :---------------: |
+| Analytical and Bioanalytical Chemistry   |       1        | 3.8              | 7.9               |
+| Analytical Chemistry                     |       2        | 6.7              | 11.6              |
+| Analytical Chimica Acta                  |       1        | 6.0              | 10.4              |
+| Analytical Methods                       |       1        | 2.6              | 4.5               |
+| Archives of Toxicology                   |       1        | 6.9              | 10.0              |
+| Drug Testing and Analysis                |       4        | 2.4              | 6.2               |
+| Forensic Science International           |       2        | 2.5              | 4.6               |
+| Journal of Analytical Toxicology         |       3        | 2.6              | 5.8               |
+| Journal of Hazardous Materials           |       1        | 11.3             | 24.6              |
+| Nature Machine Intelligence              |       1        | 23.9             | 37.6              |
+| iScience                                 |       1        | 4.1              | 6.9               |
 
 
 <small><em>† [Journal Citation Reports 2024](https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/journal-citation-reports/)</em></small>  
 <small><em>‡ [Scopus](https://www.scopus.com/sources.uri)</em></small>  
 
 <hr>
+
+**2026**
+
+<ol reversed start="19">
+    <li> Grafinger KE, Weinmann W, <b>Pasin D</b>, Gréen Henrik, Stove CP, Schöning V, Hammann F. (2026) Machine Learning in Forensic Toxicology: Concepts, Applications and Challenges in Bioanalysis, ADME, and Toxicodynamics. Forensic Science International. 112883. DOI <a href="https://doi.org/10.1016/j.forsciint.2026.112883">10.1016/j.forsciint.2026.112883</a>.</li> 
+    <li> Swan S, Sarkisian M, <b>Pasin D</b>, Rodda LN. (2026) Applications of machine learning for the general unknown screening of HRMS data within forensic toxicology. Journal of Analytical Toxicology. DOI <a href="https://doi.org/10.1093/jat/bkaf109">10.1093/jat/bkaf109</a>.</li>
+</ol>
 
 **2024**
 
@@ -62,7 +69,7 @@ author_profile: true
 **2022**
 
 <ol reversed start="11">
-  <li><b>Pasin D</b>, Nedahl M, Mollerup CB, Tortzen C, Reitzel LA, Dalsgaard PW. (2022) Identification of the synthetic cannabinoid-type new psychoactive substance, CH-PIACA, in seized material. Drug Testing and Analysis,14(9): 1645-51.  DOI: <a href="https://doi.org/10.1002/dta.3333">10.1002/dta.3333</a>.</li>
+  <li><b>Pasin D</b>, Nedahl M, Mollerup CB, Tortzen C, Reitzel LA, Dalsgaard PW. (2022) Identification of the synthetic cannabinoid-type new psychoactive substance, CH-PIACA, in seized material. Drug Testing and Analysis, 14(9): 1645-51.  DOI: <a href="https://doi.org/10.1002/dta.3333">10.1002/dta.3333</a>.</li>
   <li>Klingberg J, Keen B, Cawley A, <b>Pasin D</b>, Fu S. (2022) Developments in high-resolution mass spectrometric analyses of new psychoactive substances. Archives of Toxicology, 96: 949-67. DOI: <a href="https://doi.org/10.1007/s00204-022-03224-2">10.1007/s00204-022-03224-2</a>.</li>
   <li><b>Pasin D</b>, Pan M, Rasmussen BS, Linnet K, Dalsgaard PW, Mollerup CB. (2022) Metabolomics-driven determination of targets for salicylic acid and ibuprofen in positive electrospray ionization using LC-HRMS. Drug Testing and Analysis, 14(4): 747-56. DOI: <a href="https://doi.org/10.1002/dta.3215">10.1002/dta.3215</a>.</li>
 </ol>
