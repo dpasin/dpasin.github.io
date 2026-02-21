@@ -46,7 +46,7 @@ author_profile: true
 
 **2026**
 
-<ol reversed start="19">
+<ol reversed start="18">
     <li> Grafinger KE, Weinmann W, <b>Pasin D</b>, Gréen Henrik, Stove CP, Schöning V, Hammann F. (2026) Machine Learning in Forensic Toxicology: Concepts, Applications and Challenges in Bioanalysis, ADME, and Toxicodynamics. Forensic Science International. 112883. DOI <a href="https://doi.org/10.1016/j.forsciint.2026.112883">10.1016/j.forsciint.2026.112883</a>.</li> 
     <li> Swan S, Sarkisian M, <b>Pasin D</b>, Rodda LN. (2026) Applications of machine learning for the general unknown screening of HRMS data within forensic toxicology. Journal of Analytical Toxicology. DOI <a href="https://doi.org/10.1093/jat/bkaf109">10.1093/jat/bkaf109</a>.</li>
 </ol>
