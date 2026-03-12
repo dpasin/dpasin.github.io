@@ -24,19 +24,20 @@ author_profile: true
 
 ## Publication Summary
 
-| Journal                                  | # Publications | Impact Factor†   | CiteScore‡        |
-| ---------------------------------------- |:--------------:| :--------------: | :---------------: |
-| Analytical and Bioanalytical Chemistry   |       1        | 3.8              | 7.9               |
-| Analytical Chemistry                     |       2        | 6.7              | 11.6              |
-| Analytical Chimica Acta                  |       1        | 6.0              | 10.4              |
-| Analytical Methods                       |       1        | 2.6              | 4.5               |
-| Archives of Toxicology                   |       1        | 6.9              | 10.0              |
-| Drug Testing and Analysis                |       4        | 2.4              | 6.2               |
-| Forensic Science International           |       2        | 2.5              | 4.6               |
-| Journal of Analytical Toxicology         |       3        | 2.6              | 5.8               |
-| Journal of Hazardous Materials           |       1        | 11.3             | 24.6              |
-| Nature Machine Intelligence              |       1        | 23.9             | 37.6              |
-| iScience                                 |       1        | 4.1              | 6.9               |
+| Journal                                | # Publications | Impact Factor† |    CiteScore‡  |
+|----------------------------------------|:--------------:|:--------------:|:--------------:|
+| Analytical and Bioanalytical Chemistry |       1        |      3.8       |       7.9      |
+| Analytical Chemistry                   |       2        |      6.7       |       11.6     |
+| Analytical Chimica Acta                |       1        |      6.0       |       10.4     |
+| Analytical Methods                     |       1        |      2.6       |       4.5      |
+| Archives of Toxicology                 |       1        |      6.9       |       10.0     |
+| Drug Testing and Analysis              |       4        |      2.4       |       6.2      |
+| Forensic Science International         |       2        |      2.5       |       4.6      |
+| Journal of Analytical Toxicology       |       3        |      2.6       |       5.8      |
+| Journal of Hazardous Materials         |       1        |      11.3      |       24.6     |
+| Nature Machine Intelligence            |       1        |      23.9      |       37.6     |
+| iScience                               |       1        |      4.1       |       6.9      |
+| **Total**                              |     **18**     |                |                |
 
 
 <small><em>† [Journal Citation Reports 2024](https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/journal-citation-reports/)</em></small>  
