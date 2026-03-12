@@ -74,6 +74,7 @@ SKILLS
 
 MEMBERSHIPS OF PROFESSIONAL ORGANISATIONS
 ======
+2026 – Present &ensp; Personal Member, Australian Organisation for Quality (AOQ)  
 2023 – Present &ensp; Associate Member, California Association of Toxicologists (CAT)  
 2022 – Present &ensp; Basic Member, Python Software Foundation (PSF)  
 2013 – Present &ensp; Member, The International Association of Forensic Toxicologists (TIAFT)  
@@ -85,9 +86,9 @@ MEMBERSHIPS OF PROFESSIONAL ORGANISATIONS
 
 PROFESSIONAL COMMITTEES
 ======
-2023 – Present &ensp;	Member, TIAFT New Psychoactive Substances Committee (NPSC)  
-2022 – 2024 &ensp; Member, TIAFT Young Scientist Committee (YSC)   
-2021 – Present &ensp;	Member, FACTA New Psychoactive Substances Committee (NPSC)  
-2014 – 2017 &ensp; Student Member, RACI Analytical and Environmental Chemistry Division Committee  
+2023 – Present &nbsp;Member, TIAFT New Psychoactive Substances Committee (NPSC)  
+2022 – 2024 &emsp; &nbsp;Member, TIAFT Young Scientist Committee (YSC)   
+2021 – Present &ensp;Member, FACTA New Psychoactive Substances Committee (NPSC)  
+2014 – 2017 &emsp; &nbsp;Student Member, RACI Analytical and Environmental Chemistry Division Committee  
 
   
