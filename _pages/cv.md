@@ -44,7 +44,7 @@ Australian Racing Forensic Laboratory, RacingNSW, Australia
 EDUCATION
 ======
 **Doctor of Philosophy**  
-2014-2018  
+2014 – 2018  
 School of Mathematical and Physical Sciences, Faculty of Science  
 University of Technology Sydney, Australia  
 
@@ -54,7 +54,7 @@ School of Mathematical and Physical Sciences, Faculty of Science
 University of Technology Sydney, Australia  
 
 **Bachelor of Forensic Science in Applied Chemistry**  
-2010 - 2012  
+2010 – 2012  
 School of Mathematical and Physical Sciences, Faculty of Science  
 University of Technology Sydney, Australia  
 
@@ -62,7 +62,7 @@ University of Technology Sydney, Australia
 
 SKILLS
 ======
-**Full-stack programming** - Python, SQL, JavaScript, HTML, CSS  
+**Full-stack programming** – Python, SQL, JavaScript, HTML, CSS  
 **Data analysis** – Pandas, numPy, sciPy  
 **Data science** – Tensorflow/Keras, PyTorch, scikit-learn  
 **Web frameworks** – Flask, Django  
