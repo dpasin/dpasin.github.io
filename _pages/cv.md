@@ -86,9 +86,9 @@ MEMBERSHIPS OF PROFESSIONAL ORGANISATIONS
 
 PROFESSIONAL COMMITTEES
 ======
-2023 – Present &nbsp;Member, TIAFT New Psychoactive Substances Committee (NPSC)  
-2022 – 2024 &emsp; &nbsp;Member, TIAFT Young Scientist Committee (YSC)   
-2021 – Present &ensp;Member, FACTA New Psychoactive Substances Committee (NPSC)  
-2014 – 2017 &emsp; &nbsp;Student Member, RACI Analytical and Environmental Chemistry Division Committee  
+2023 – Present &nbsp; Member, TIAFT New Psychoactive Substances Committee (NPSC)  
+2022 – 2024  &ensp;  Member, TIAFT Young Scientist Committee (YSC)   
+2021 – Present &ensp; Member, FACTA New Psychoactive Substances Committee (NPSC)  
+2014 – 2017  &ensp; Student Member, RACI Analytical and Environmental Chemistry Division Committee  
 
   
