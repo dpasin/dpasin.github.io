@@ -74,7 +74,7 @@ SKILLS
 
 MEMBERSHIPS OF PROFESSIONAL ORGANISATIONS
 ======
-2026 – Present &ensp; Full Member, Society of Forensic Toxicologists (SOFT)
+2026 – Present &ensp; Full Member, Society of Forensic Toxicologists (SOFT)  
 2026 – Present &ensp; Personal Member, Australian Organisation for Quality (AOQ)  
 2023 – 2024 &ensp; Associate Member, California Association of Toxicologists (CAT)  
 2022 – Present &ensp; Basic Member, Python Software Foundation (PSF)  
